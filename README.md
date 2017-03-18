@@ -12,10 +12,18 @@ Key features:
 
 •  Selected venue recommendations
 
+Version 1.1.0.0:
+------------------------
+• Lots of bugfixes, including Shake To Shuffle crash fixed
+
+• Map view updated
+
+• New venues added
+
+
 Version 1.0.0.0:
 ------------------------
 • Initial release
-
 
 Recommend new locations:
 ------------------------
